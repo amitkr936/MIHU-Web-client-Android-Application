@@ -1,2 +1,4 @@
-# MIHU-Web-client-Android-App
-MIHU-Web Client Android application
+# MIHU2-Android-App
+Android Application Developed for Devotees of Amritavarsham 64<br/>
+![Alt text](mihuandroid.jpg?raw=true "Title")
+
